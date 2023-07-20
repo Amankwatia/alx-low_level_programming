@@ -1,0 +1,6 @@
+set number
+set autoindent
+set smartindent
+set cindent
+set tabstop=4 shiftwidth=4
+syntax enable
